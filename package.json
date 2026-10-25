@@ -1,6 +1,6 @@
 {
   "name": "git-history-timeline",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Visualize your complete GitHub contribution history across all repositories and branches",
   "main": "src/index.js",
   "type": "module",
@@ -24,6 +24,6 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "dotenv": "^18.0.3"
+    "dotenv": "^18.0.9"
   }
 }
